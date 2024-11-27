@@ -1,0 +1,84 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "type": "expense",
+      "category": "Food",
+      "amount": "30.99",
+      "date": "2024-11-19",
+      "description": "Smalls"
+    },
+    {
+      "id": 2,
+      "type": "expense",
+      "category": "Entertainment",
+      "amount": "130.50",
+      "date": "2024-11-19",
+      "description": "Top Golf"
+    },
+    {
+      "id": 3,
+      "type": "income",
+      "category": "Job",
+      "amount": "1600.90",
+      "date": "2024-11-21",
+      "description": "Blue Bell Creameries"
+    },
+    {
+      "id": 4,
+      "type": "expense",
+      "category": "Bills",
+      "amount": "190.00",
+      "date": "2024-11-21",
+      "description": "Electricity"
+    },
+    {
+      "id": 5,
+      "type": "expense",
+      "category": "Groceries",
+      "amount": "210.00",
+      "date": "2024-11-21",
+      "description": "Aldi"
+    },
+    {
+      "id": 7,
+      "type": "income",
+      "category": "Job",
+      "amount": "1730.00",
+      "date": "2024-12-3",
+      "description": "Blue Bell Creameries"
+    },
+    {
+      "id": 8,
+      "type": "expense",
+      "category": "Bills",
+      "amount": "452.88",
+      "date": "2024-12-3",
+      "description": "Car note"
+    },
+    {
+      "id": "f92e",
+      "type": "Expense",
+      "category": "Entertainment",
+      "amount": "320.00",
+      "date": "2024-11-27",
+      "description": "Trip"
+    },
+    {
+      "id": "7503",
+      "type": "Expense",
+      "category": "Food",
+      "amount": "45.00",
+      "date": "2024-11-29",
+      "description": "Pizza"
+    },
+    {
+      "id": "1e70",
+      "type": "Income",
+      "category": "Salary",
+      "amount": "450.00",
+      "date": "2024-11-29",
+      "description": "Music"
+    }
+  ]
+}
