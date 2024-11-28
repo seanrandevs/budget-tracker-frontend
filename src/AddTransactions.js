@@ -46,7 +46,7 @@ const AddTransactions = ({ onTransactionAdded }) => {
 return (
     <Container className="add-transactions">
       <Row className="justify-content-center">
-        <Col md={3}>
+        <Col md={5}>
           <h4>Add New Transaction</h4>
           <Form onSubmit={handleSubmit}>
             <Form.Group className="mb-3">

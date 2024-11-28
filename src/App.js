@@ -17,6 +17,16 @@ function App() {
     }
   };
 
+  // Function to refresh transactions by re-fetching them
+  const refreshTransactions = async () => {
+    try {
+      const data = await getTransactions();
+      setTransactions(data);
+    } catch (error) {
+      console.error('Error refreshing transactions:', error);
+    }
+  };
+
   useEffect(() => {
     fetchTransactions();
   }, []);
@@ -26,7 +36,7 @@ function App() {
         <div>
             <div className="left-side">
                 <AddTransactions onTransactionAdded={fetchTransactions} />
-                <Transactions transactions={transactions} />
+                <Transactions transactions={transactions} refreshTransactions={refreshTransactions} />
             </div>
         </div>
     );
