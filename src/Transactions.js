@@ -4,7 +4,6 @@ import { deleteTransactions } from "./apiService";
 const Transactions = ({ transactions, refreshTransactions }) => {
   return (
     <div className="transactions">
-  <h4>Transactions</h4>
   <table>
     <thead>
       <tr>

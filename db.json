@@ -1,20 +1,108 @@
 {
   "transactions": [
     {
-      "id": "7",
-      "type": "income",
-      "category": "Job",
-      "amount": "1730.00",
-      "date": "2024-12-3",
-      "description": "Blue Bell Creameries"
+      "id": "a567",
+      "type": "Expense",
+      "category": "Food",
+      "amount": "52.34",
+      "date": "2024-11-29",
+      "description": "Smalls Burgers"
     },
     {
-      "id": "8",
-      "type": "expense",
+      "id": "bb09",
+      "type": "Expense",
+      "category": "Entertainment",
+      "amount": "130.00",
+      "date": "2024-11-30",
+      "description": "Top Golf"
+    },
+    {
+      "id": "47e0",
+      "type": "Income",
+      "category": "Salary",
+      "amount": "257.00",
+      "date": "2024-11-29",
+      "description": "Musician"
+    },
+    {
+      "id": "2653",
+      "type": "Expense",
+      "category": "Trip",
+      "amount": "320.00",
+      "date": "2024-11-27",
+      "description": "Hotel"
+    },
+    {
+      "id": "c752",
+      "type": "Expense",
+      "category": "Food",
+      "amount": "40.00",
+      "date": "2024-11-28",
+      "description": "Rasing Canes"
+    },
+    {
+      "id": "dac5",
+      "type": "Expense",
+      "category": "Groceries",
+      "amount": "210.98",
+      "date": "2024-11-29",
+      "description": "Aldi"
+    },
+    {
+      "id": "860e",
+      "type": "Expense",
+      "category": "Groceries",
+      "amount": "107.34",
+      "date": "2024-11-29",
+      "description": "Costco"
+    },
+    {
+      "id": "37de",
+      "type": "Expense",
+      "category": "Food",
+      "amount": "54.22",
+      "date": "2024-11-27",
+      "description": "Five Guys"
+    },
+    {
+      "id": "ac82",
+      "type": "Expense",
       "category": "Bills",
-      "amount": "452.88",
-      "date": "2024-12-3",
-      "description": "Car note"
+      "amount": "180.00",
+      "date": "2024-11-22",
+      "description": "Electricity"
+    },
+    {
+      "id": "1eda",
+      "type": "Expense",
+      "category": "Bills",
+      "amount": "26.44",
+      "date": "2024-11-29",
+      "description": "Water Bill"
+    },
+    {
+      "id": "0261",
+      "type": "Expense",
+      "category": "Bills",
+      "amount": "1502.22",
+      "date": "2024-11-22",
+      "description": "House Note"
+    },
+    {
+      "id": "a179",
+      "type": "Expense",
+      "category": "Entertainment",
+      "amount": "80.11",
+      "date": "2024-11-22",
+      "description": "Bowling"
+    },
+    {
+      "id": "0826",
+      "type": "Income",
+      "category": "Salary",
+      "amount": "1722.34",
+      "date": "2024-11-22",
+      "description": "Blue Bell Creameries"
     }
   ]
 }

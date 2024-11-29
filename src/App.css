@@ -1,3 +1,7 @@
+.budget-tracker{
+  display: flex;
+  justify-content: space-around;
+}
 .left-side {
     display: flex;
     flex-direction: column;
@@ -41,6 +45,31 @@
     background-color: #f1f1f1;
   }
   .transactions svg {
-    color: red;
+    color: rgb(253, 0, 0);
+  }
+  .filters label {
+    padding: 1rem;
+  }
+
+  .chart-container {
+    max-width: 800px;
+    margin: 5rem auto;
+    padding: 20px;
+    background: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .chart-filters {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .chart-filters label {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    font-size: 14px;
   }
   
