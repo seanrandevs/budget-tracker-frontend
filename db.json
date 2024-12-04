@@ -103,6 +103,14 @@
       "amount": "1722.34",
       "date": "2024-11-22",
       "description": "Blue Bell Creameries"
+    },
+    {
+      "id": "74b1",
+      "type": "Income",
+      "category": "Salary",
+      "amount": "320.00",
+      "date": "2024-12-02",
+      "description": "Musician"
     }
   ]
 }
